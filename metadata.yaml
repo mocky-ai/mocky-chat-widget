@@ -15,5 +15,5 @@
 homepage: "https://mocky.ai"
 documentation: "https://mocky.ai"
 versions:
-  - sha: 35b21a1b16415df500ca1d0af1c9811e2cb200fc
+  - sha: 2efa45ac5e54c7168136208b95563e56f1470693
     changeNotes: Initial release
