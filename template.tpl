@@ -19,7 +19,6 @@ Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
 
-
 ___INFO___
 
 {
@@ -429,7 +428,6 @@ ___WEB_PERMISSIONS___
     "isRequired": true
   }
 ]
-
 
 ___TESTS___
 
